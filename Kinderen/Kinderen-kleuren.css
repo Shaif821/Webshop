@@ -1,0 +1,98 @@
+a {
+    color:black;
+    text-decoration: none;
+}
+
+body {
+    font-family: calibri
+        
+}
+
+h1 {
+    padding-top: 10px;
+}
+
+#table1 {
+    margin-left: 250px;
+    margin-top: 150px;
+    
+}
+
+#table2 {
+    margin-left: 250px;
+    margin-top: 150px
+    
+}
+img {
+    border: 1px solid black;
+}
+
+#wrapper {
+    background: #ccc;
+    margin: 0 auto; 
+    padding: 20px;
+    width: 1700px; 
+    text-align: center;
+}
+
+#rand {
+    border:1px solid black;
+
+}
+
+#logo {
+    border-style: none;
+}
+
+#soorten {
+    position: absolute;
+    left: 100px;
+    top: 40px;
+}
+
+#grid1 {
+    position: absolute;
+    margin-top: 2500px;
+}
+
+#grid2 {
+    position: absolute;
+    margin-top: 2500px;
+    
+}
+
+.grid_6 {
+    background-color: white;
+    border-top: 1px solid black;
+    width: 100%;
+}
+
+#p1 {
+    
+    margin-left: 50px;
+}
+
+#p2 {
+    
+    margin-left: 170px;
+}
+
+#p3 {
+    
+    margin-left: 170px;
+}
+
+#p4 {
+    
+    margin-left: 170px;
+}
+
+#p5 {
+    
+    margin-left: 170px;
+}
+
+#p6 {
+    
+    margin-left: 170px;
+}

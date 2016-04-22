@@ -1,0 +1,188 @@
+body {
+    background-color: #E8E8E8;
+    font-family: calibri;
+}
+
+a { color:black;
+    
+} 
+
+#achtergrond {
+    position: absolute;
+   height: 50px;
+    width: 2000px;
+    margin-top: 450px;
+    
+}
+
+a {
+    text-decoration: none;
+}
+
+#koopbutton {
+    position: absolute;
+    margin-left: 1045px;
+    margin-top: 400px;
+    width: 10%;
+   
+    
+}
+
+#winkelwagen {
+    position: absolute;
+    margin-left: 1300px;
+    margin-top: 400px;
+    width: 10%;
+     border: 1px solid #333;
+    
+}
+
+#omschrijf {
+    text-align: left;
+    margin-left: 2px;
+}
+
+#specifi {
+    text-align: left;
+    margin-left: 200px;
+}
+
+#li {
+    text-align: left;
+    margin-left: 200px;
+}
+
+div p {
+    text-align: left;
+    font-size: 16px;
+    margin-left: 2px;
+}
+
+
+
+#prijs {
+    font-family: Century Gothic;
+    text-decoration-color: firebrick;
+    position: absolute;
+    margin-left: 750px;
+    margin-top: 150px;
+   
+    
+}
+#productnaam {
+    position: absolute;
+    margin-left: 750px;
+    margin-top: 20px;
+    font-family: Century Gothic;
+    
+}
+
+#informatie {
+    font-family: Century Gothic;
+    position: fixed;
+    margin-left: 7px;
+    margin-top: 410px;
+    width: 68%;
+    
+}
+#omschrijving {
+    border-top: 1px solid grey;
+    position: absolute;
+    width: 50%;
+    height: 40%;
+    margin-top: 500px;
+    background-color: white;
+    margin-left: 20px;
+    font-family: Century Gothic;
+}
+
+#lijst {
+    border-top: 1px solid grey;
+    position: absolute;
+    width: 50%;
+    height: 40%;
+    margin-top: 500px;
+    background-color: white;
+    margin-left: 650px;
+    font-family: Century Gothic;
+    
+}
+
+
+
+#wrapper {
+    position: absolute;
+    margin-left: 300px;
+    width: 70%;
+    background: white;
+    height: 100%;
+    margin-top: 100px;
+    
+}
+/*
+    margin: 0 auto; 
+    padding: 15px;
+    width: 1400px; 
+    text-align: center;
+}
+*/
+
+#product {
+    position: absolute;
+    left: 20px;
+    margin-top:40px;
+    
+}
+
+#grid1 {
+    position: absolute;
+    margin-top: 1200px;
+      margin-left: auto;
+}
+
+#grid2 {
+    position: absolute;
+    margin-top: 1200px;
+    
+}
+
+.grid_6 {
+    background-color: white;
+    border-top: 1px solid black;
+    width: 100%;
+}
+
+#p1 {
+    
+    margin-left: 50px;
+}
+
+#p2 {
+    
+    margin-left: 170px;
+}
+
+#p3 {
+    
+    margin-left: 170px;
+}
+
+#p4 {
+    
+    margin-left: 170px;
+}
+
+#p5 {
+    
+    margin-left: 170px;
+}
+
+#p6 {
+    
+    margin-left: 170px;
+}
+
+
+h4 {
+    margin-left: 70px;
+}

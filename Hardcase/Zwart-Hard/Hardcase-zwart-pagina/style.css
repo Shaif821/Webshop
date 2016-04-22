@@ -1,0 +1,17 @@
+body{ 
+	background-color: black; 
+}
+
+#canvas{
+    display: block;
+    margin: auto;
+    border: 2px solid black;
+    background-image: url(middleearthlargelargerstill.jpg);
+     cursor: none; 
+}
+
+h1 {
+    color: White;
+    font-family: calibri;
+    
+}

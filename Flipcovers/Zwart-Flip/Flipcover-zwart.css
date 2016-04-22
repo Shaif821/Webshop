@@ -1,0 +1,144 @@
+a {
+    color:black;
+    text-decoration: none;
+    z-index: -1;
+}
+
+body {
+    font-family: Century gothic;
+    background: #E8E8E8;
+    z-index: -1;
+}
+p {
+    font-family: Century gothic;
+    z-index: -1;
+}
+
+h1 {
+    
+    font-family: Century gothic;
+    z-index: -1;
+}
+
+
+#table1 {
+   margin-left:650px;
+    margin-top: 350px;
+    background-color: white;
+    width: 45%;
+    height: 480px;
+    text-align: center;
+     z-index: -1;
+  
+}
+
+#table1 table tr td a img {
+    margin: auto;
+    display: block;
+    z-index: -1;
+}
+
+h3 {
+    font-family: Century gothic;
+    z-index: -1;
+}
+
+/*
+#wrapper {
+    background-color: white;
+    margin: 0 auto; 
+    padding: 15px;
+    width: 1400px; 
+    text-align: center;
+}
+*/
+
+/*
+#rand {
+    border:1px solid black;
+
+}
+*/
+
+#logo {
+    border-style: none;
+    z-index: -1;
+}
+
+#modellen{
+    position: absolute;
+    margin-top: -480px;
+    left:363px;
+    background-color: white;
+    z-index: -1;
+}
+
+
+#flipcover {
+    position: absolute; 
+    margin-left: 364px;
+    margin-top: -245px;
+    width: 60%;
+    height: 25%;
+     z-index: -1;
+ 
+}
+
+#grid1 {
+    position: absolute;
+    margin-top: 500px;
+    z-index: -1;
+    margin-left: auto;
+    
+}
+
+#grid2 {
+    position: absolute;
+    margin-top: 500px;
+     z-index: -1;
+    
+}
+
+.grid_6 {
+    background-color: white;
+    border-top: 1px solid black;
+    width: 100%;
+}
+
+#p1 {
+    
+    margin-left: 50px;
+}
+
+#p2 {
+    
+    margin-left: 170px;
+}
+
+#p3 {
+    
+    margin-left: 170px;
+}
+
+#p4 {
+    
+    margin-left: 170px;
+}
+
+#p5 {
+    
+    margin-left: 170px;
+}
+
+#p6 {
+    
+    margin-left: 170px;
+}
+
+#validatie img {
+    height: 1em;
+    width: auto;
+    border: 0;
+    margin: 0 .3em;
+    display: none;
+}

@@ -1,0 +1,53 @@
+body {
+    font-family: calibri;
+}
+
+
+a {
+    text-decoration: none;
+    color:black;
+    
+}
+
+/*Zwarte rand*/
+#rand {
+    border: 1px solid black;
+}
+
+
+#table1 {
+     margin-left: 250px;
+    margin-top: 150px
+}
+
+
+
+#table2 {
+    margin-left: 250px;
+     margin-top: 150px;
+
+    
+}
+
+#wrapper {
+    background: #ccc;
+    margin: 0 auto; 
+    padding: 20px;
+    width: 1700px; 
+    text-align: center;
+}
+
+img {
+    border:1px solid black;
+
+}
+
+#logo {
+    border-style: none;
+}
+
+#soorten {
+    position: absolute;
+    left: 100px;
+    top: 40px;
+}
